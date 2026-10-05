@@ -1,0 +1,15 @@
+{
+  "name": "saaf-suthra-lahore-backend",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Independent Node.js/Express backend for the Saaf Suthra Lahore concept portal",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
